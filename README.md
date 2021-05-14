@@ -1,2 +1,2 @@
 # ANN-1
-First Deep learning model (Artificial Neural Network).
+Deep learning Basic model (Artificial Neural Network).
